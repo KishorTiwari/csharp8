@@ -1,0 +1,13 @@
+C:\Users\brend\src\csharp8\bin\Debug\netcoreapp3.1\csharp8.exe
+C:\Users\brend\src\csharp8\bin\Debug\netcoreapp3.1\csharp8.deps.json
+C:\Users\brend\src\csharp8\bin\Debug\netcoreapp3.1\csharp8.runtimeconfig.json
+C:\Users\brend\src\csharp8\bin\Debug\netcoreapp3.1\csharp8.runtimeconfig.dev.json
+C:\Users\brend\src\csharp8\bin\Debug\netcoreapp3.1\csharp8.dll
+C:\Users\brend\src\csharp8\bin\Debug\netcoreapp3.1\csharp8.pdb
+C:\Users\brend\src\csharp8\obj\Debug\netcoreapp3.1\csharp8.csprojAssemblyReference.cache
+C:\Users\brend\src\csharp8\obj\Debug\netcoreapp3.1\csharp8.csproj.CoreCompileInputs.cache
+C:\Users\brend\src\csharp8\obj\Debug\netcoreapp3.1\csharp8.AssemblyInfoInputs.cache
+C:\Users\brend\src\csharp8\obj\Debug\netcoreapp3.1\csharp8.AssemblyInfo.cs
+C:\Users\brend\src\csharp8\obj\Debug\netcoreapp3.1\csharp8.dll
+C:\Users\brend\src\csharp8\obj\Debug\netcoreapp3.1\csharp8.pdb
+C:\Users\brend\src\csharp8\obj\Debug\netcoreapp3.1\csharp8.genruntimeconfig.cache
